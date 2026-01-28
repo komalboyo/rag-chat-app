@@ -21,7 +21,7 @@
     "clsx": "^2.1.1",
     "langchain": "^0.3.0",
     "lucide-react": "^0.563.0",
-    "next": "15.0.0",
+    "next": "15.0.7",
     "openai": "^4.0.0",
     "pdf-parse": "^1.1.1",
     "react": "^19.0.0",
